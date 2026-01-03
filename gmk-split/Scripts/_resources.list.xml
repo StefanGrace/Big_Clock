@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="Date_Time_Assemble" type="RESOURCE"/>
+  <resource name="Date_Time_Draw" type="RESOURCE"/>
+  <resource name="Set_Resolution" type="RESOURCE"/>
+  <resource name="Set_Variables" type="RESOURCE"/>
+  <resource name="Click_Handle" type="RESOURCE"/>
+  <resource name="Save_Settings" type="RESOURCE"/>
+  <resource name="Load_Settings" type="RESOURCE"/>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="room_start" type="RESOURCE"/>
+  <resource name="room_main" type="RESOURCE"/>
+</resources>

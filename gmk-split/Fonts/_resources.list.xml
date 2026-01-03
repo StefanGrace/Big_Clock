@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+  <resource name="font_small" type="RESOURCE"/>
+  <resource name="font_big" type="RESOURCE"/>
+  <resource name="font_option" type="RESOURCE"/>
+  <resource name="font_option_bold" type="RESOURCE"/>
+</resources>
